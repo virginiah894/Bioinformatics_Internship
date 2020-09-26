@@ -1,13 +1,13 @@
-## BIOINFORMATICS INTERNSHIP 2020(MBBU)
+## BIOINFORMATICS INTERNSHIP 2020(MOLECULAR BIOLOGY,BIOINFORMATICS,BIOINFORMATICS) AT ICIPE.
 
 
 ### AUTHOR
 Virginiah Periah Kengara
 
 ## BACKGROUND
-My name is Virginiah Periah Kengara. I am a passionate and enthusiastic scientist particularly in Bioinformatics. I hold a B.Sc. in Microbiology and Biotechnology from The University of Nairobi and a certificate in Software Development from moringa School . My area of interest are genetic engineering in molecular biology and bioinformatics has become an essential tool in genomics.
+My name is Virginiah Periah Kengara. I am a passionate bioinformatics enthusiast. I hold a B.Sc. in Microbiology and Biotechnology from The University of Nairobi and a certificate in Software Development from moringa School . My area of interest is genetic engineering where bioinformatics has become an essential tool.My career  goal is to be a leading medical researcher working on precision medicine, CRISPR cas Technology and bioinformatics to advance the quality of medicine in Africa.
 
-I am currently interning at the MMBU center at ICIPE Kenya and I am so excited for this opportunity which will equip me with skills in genomics,research  and computational methods. Moreover, having mentors and working on projects will be critical for my growth in the Bioinformatics career.
+I am currently interning at the MMBU center at ICIPE Kenya and I am so excited for this opportunity because it will equip me with skills in genomics,research  and computational methods. Moreover, having mentors and working on projects will build my portfolio for my postgraduate studies in Bioinformatics.
 
 ## MY VISION    
 * To learn gene sequencing that is important in precision medicine.
@@ -17,11 +17,11 @@ I am currently interning at the MMBU center at ICIPE Kenya and I am so excited f
 * Understand and work on multi-Sequence Analysis and  protein sequence prediction.
 * To learn database intergration and deployment of data to cloud.
 
-* Develop soft skills and presentation skills that will help when pitching my ideas and findings. 
+*  To develop soft skill,presentation skills and interact with mentors in bioinformatics.
 
 
 ## ROADMAP
-###### This is a breakdown of my learning
+#### This is a breakdown of my learning
 
 1. Learn Operating systems(Linux)
     - Estimated time (one week)
