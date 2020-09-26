@@ -14,10 +14,10 @@ I am currently interning at the MMBU center at ICIPE Kenya and I am so excited f
 
 * To learn scripting languages used in biostatistics and analysis(python and R)that will help in computational of data, develop softwares and systems to help in research and diagnostics.
 * To Understand all principals and procedures followed while working on a research project
-* Understand and work on multi-Sequence Analysis and  protein sequence prediction.
+*  To understand and work on multi-Sequence Analysis and  protein sequence prediction.
 * To learn database intergration and deployment of data to cloud.
 
-*  To develop soft skill,presentation skills and interact with mentors in bioinformatics.
+*  To develop soft skills,presentation skills and interact with mentors in bioinformatics.
 
 
 ## ROADMAP
